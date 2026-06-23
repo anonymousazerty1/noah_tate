@@ -23,7 +23,7 @@ const sc = Cormorant_SC({
 
 /* ── Metadata ─────────────────────────────────────────────── */
 export const metadata: Metadata = {
-  metadataBase: new URL('https://anthonydebaere.com'),
+  metadataBase: new URL('https://noah-tate.vercel.app'),
   title: {
     default: 'Anthony De Baere',
     template: '%s — Anthony De Baere',
